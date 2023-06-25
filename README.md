@@ -23,11 +23,10 @@ on the temperature (if there is none, the heat flow should be "normal", dependin
 </ul>
 
 <h2>Results Examples</h2>
-<h3>Points Mapping - From Model Over Infrared Image</h3>
-<h4>Reference Points Used to Make Relation Between Model and Image</h4>
+<h3>Reference Points Used to Make Relation Between Model and Image</h3>
 <img src="https://github.com/GeorgeDB/TCCThermography3DVizMatlab/assets/124641422/e4ada1db-e123-4c63-9df5-0f8a7ab40db2.png">
-<h4>Mesh Nodes Printed Over Image</h4>
+<h3>Mesh Nodes Printed Over Image</h3>
 <p>Each black point correspond to a mesh node (model point) printed over the 2D image</p>
 <img src="https://github.com/GeorgeDB/TCCThermography3DVizMatlab/assets/124641422/8578a7e3-686a-4717-9b41-38b7b55832e1.png">
-<h4>Final Rebuild Model With Temperature Information</h4>
+<h3>Final Rebuild Model With Temperature Information</h3>
 <img src="https://github.com/GeorgeDB/TCCThermography3DVizMatlab/assets/124641422/c64fcfc1-c55d-4909-bc43-38da6c2bbbb3.png">
